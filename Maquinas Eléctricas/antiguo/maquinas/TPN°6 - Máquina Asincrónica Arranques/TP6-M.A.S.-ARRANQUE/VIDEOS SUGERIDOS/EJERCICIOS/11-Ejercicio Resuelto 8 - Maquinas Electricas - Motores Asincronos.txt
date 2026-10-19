@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=vE4yd8bv_uA
+
+a) mejor usar f=p.n/60 , donde p=nº de pares de polos
+
+b) P [W]= M (Nm) x w (rad/s)
+para convertir rpm a rad /seg:      (rpm/60)x 6,283 = [rad/seg]
+
+c) El valor de resbalaminento puede obtenerse de la curva Mom-veloc (en este caso 3,33%), o por proporcionalidad suponiendo linealidad desde el sincronismo hasta las proximidades de la zona de Momento máximo.
+Con el nuevo resbalamiento, puede calcularse la veloc del rotor con: N1 = Ns(1-s)
+Finalmente con M1=2M y N1, puede calcularse P1=  M1.N1 con las unidades adecuadas
+
+IMPORTANTE: Físicamente, lo descripto anteriormente sólo puede ocurrir si el motor puede entregar el doble de par cuando se duplica la solicitación  en el eje; si el momento máximo es menor que el doble de par requerido, entonces el motor se detendrá y quedará consumiendo la corriente de corto circuito (igual que la de arranque) hasta que actuen las protecciones.

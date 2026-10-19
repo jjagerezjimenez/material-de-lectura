@@ -1,0 +1,16 @@
+1- Generador Síncrono | ejemplo 1| Máquinas Eléctricas
+https://www.youtube.com/watch?v=TmmmqxCQdvY
+
+2- Problema introductorio a la máquina sincrona
+[Ver hasta el minuto 3:44. Lo demás no se incluyó en Teoría.]
+https://www.youtube.com/watch?v=-IqsdEN0kug
+
+3- 4.3.4 Aspecto Importante de la Máquina Sincrónica
+[El problema empieza en el min. 4:00. Lo anterior es un poco de teoría.
+SE TRATA DE COMPENSACION-Enunciado poco claro. La máq. Sinc que se instala es la que tiene que entregar los 300kva con fp=1, es decir 300 kw y ella misma también debe entregar el reactivo p la compensación]
+https://www.youtube.com/watch?v=4KYwJuCW7jg
+
+4-MOTOR DE CORRIENTE ALTERNA 01
+[RESOLUCION TRIGONOMETRICA]
+https://www.youtube.com/watch?v=A5QGJOEH7nM
+
